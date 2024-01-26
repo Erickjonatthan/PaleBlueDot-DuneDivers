@@ -2,6 +2,8 @@
 # Pale Blue Dot: Visualization Challenge
 
 This repository showcases the code developed for the Pale Blue Dot: Visualization Challenge. Here, you will find the files used by me and my team during the challenge.
+
+**Before getting started, make sure to update the variables user and password in the dataLogin.ipynb file.**
 ## Running Locally
 
 Clone the project

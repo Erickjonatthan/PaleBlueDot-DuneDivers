@@ -30,5 +30,6 @@ Start the Jupyter notebook server
   jupyter notebook
 ```
 
-![Logo](https://drivendata-prod-public.s3.amazonaws.com/images/drivendata-logo.58f94dd407ef.svg)
+![Logo](https://github.com/Erickjonatthan/PaleBlueDot-DuneDivers/blob/master/certificate/Certificado.png)
 
+![Logo](https://drivendata-prod-public.s3.amazonaws.com/images/drivendata-logo.58f94dd407ef.svg)
